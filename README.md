@@ -21,13 +21,13 @@ O **Display Grid** é uma poderosa ferramenta do CSS que permite a criação de 
 1. Clone o repositório para a sua máquina local usando o seguinte comando:
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/seu-usuario/yt-grid-page.git
     ```
 
 2. Acesse o diretório do projeto:
 
     ```bash
-    cd nome-do-repositorio
+    cd yt-grid-page
     ```
 
 3. Abra o arquivo `index.html` em seu navegador para visualizar o clone da página de grid de vídeos do YouTube.
